@@ -1,19 +1,15 @@
 <!-- ======================= HEADER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d8ff&height=200&section=header&text=Abdullah%20Murtaza&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00d8ff&height=200&section=header&text=Anas%20Imran&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Software%20Developer&descAlignY=58&descSize=18" />
 
 <div align="center">
 
-<a href="https://www.anasimran09.site/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00D8FF&center=true&vCenter=true&width=760&lines=Building+production-grade+SaaS+platforms;Next.js+%C2%B7+React+Native+%C2%B7+Node.js+%C2%B7+PostgreSQL;AI-powered+workflows+with+self-hosted+LLMs;Shipping+reliable+software+that+creates+value" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00D8FF&center=true&vCenter=true&width=760&lines=Building+production-grade+SaaS+platforms;Next.js+%C2%B7+React+Native+%C2%B7+Node.js+%C2%B7+PostgreSQL;AI-powered+workflows+with+self-hosted+LLMs;Shipping+reliable+software+that+creates+value" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.anasimran09.site/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/anasimran09-7bb409177/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/anas-imran-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:anasimran7444@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://twitter.com/abdi_oppp"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<img src="https://komarev.com/ghpvc/?username=abdiopp&label=Profile%20views&color=00d8ff&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=anasimran09&label=Profile%20views&color=00d8ff&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -22,7 +18,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
 ```ts
-const abdullah: Engineer = {
+const anas: Engineer = {
   role:      "Senior Software Developer",
   location:  "Faisalabad, Pakistan 🇵🇰",
   focus:     ["SaaS platforms", "AI-powered apps", "Cloud deployments"],
@@ -167,22 +163,22 @@ Full-featured Learning Management System with **GraphQL APIs**, secure video str
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdiopp&theme=tokyonight" alt="Profile summary"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdiopp&theme=tokyonight" alt="GitHub stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anasimran09&theme=tokyonight" alt="Profile summary"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anasimran09&theme=tokyonight" alt="GitHub stats"/>
 
 <br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdiopp&theme=tokyonight" alt="Top languages by repo"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdiopp&theme=tokyonight" alt="Most committed languages"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdiopp&theme=tokyonight&utcOffset=5" alt="Productive time"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anasimran09&theme=tokyonight" alt="Top languages by repo"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anasimran09&theme=tokyonight" alt="Most committed languages"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anasimran09&theme=tokyonight&utcOffset=5" alt="Productive time"/>
 
 <br/>
 
-<img width="92%" src="https://streak-stats.demolab.com?user=abdiopp&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
+<img width="92%" src="https://streak-stats.demolab.com?user=anasimran09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdiopp&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anasimran09&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
 
 </div>
 
@@ -193,7 +189,7 @@ Full-featured Learning Management System with **GraphQL APIs**, secure video str
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp;Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=abdiopp&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=anasimran09&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 </div>
 
 <br/>
@@ -204,9 +200,9 @@ Full-featured Learning Management System with **GraphQL APIs**, secure video str
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdiopp/abdiopp/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdiopp/abdiopp/output/snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/abdiopp/abdiopp/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anasimran09/anasimran09/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anasimran09/anasimran09/output/snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/anasimran09/anasimran09/output/snake.svg" />
   </picture>
 </div>
 
@@ -229,8 +225,7 @@ Full-featured Learning Management System with **GraphQL APIs**, secure video str
 **Open to full-stack roles, freelance work, and interesting engineering problems.**
 
 <a href="mailto:anasimran7444@gmail.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/anasimran09-7bb409177/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.anasimran09.site/"><img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anas-imran-/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
